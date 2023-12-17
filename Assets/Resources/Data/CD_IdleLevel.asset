@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ec92d7fe5114bc4acc5f62c2c026304, type: 3}
+  m_Name: CD_IdleLevel
+  m_EditorClassIdentifier: 
+  IdleLevelListData:
+    IdleLevelData:
+    - IdleBuildingData:
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 150
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 75
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 50
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 120
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 80
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 40
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 90
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 75
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 15
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 9
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 40
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 25
+          IsCompleted: 0
+        IsSideObjectActive: 0
+    - IdleBuildingData:
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 200
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 190
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 90
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 220
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 235
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 110
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 250
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 1
+        PayedAmount: 0
+        TotalRequiredAmount: 275
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 150
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 350
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
+      - BuildingId: 0
+        IsDepended: 0
+        PayedAmount: 0
+        TotalRequiredAmount: 420
+        IsCompleted: 0
+        SideObjectData:
+          PayedAmount: 0
+          TotalRequiredAmount: 0
+          IsCompleted: 0
+        IsSideObjectActive: 0
